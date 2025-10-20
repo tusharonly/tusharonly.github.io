@@ -1,11 +1,11 @@
 {
-    "name": "TUSHAR GHIGE",
-    "short_name": "TUSHAR GHIGE",
+    "name": "Tushar Ghige",
+    "short_name": "Tushar",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0a0a0a",
     "theme_color": "#0a0a0a",
-    "description": "TUSHAR GHIGE'S PERSONAL WEBSITE",
+    "description": "Hello! I'm Tushar, a mobile engineer building pixel-perfect mobile experiences based in Bengaluru.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
